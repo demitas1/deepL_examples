@@ -9,18 +9,12 @@ This repository contains examples of how to use the DeepL Translation API with P
 
 ## Installation
 
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/deepl-translation-examples.git
-   cd deepl-translation-examples
-   ```
-
-2. Install the DeepL Python client library:
+1. Install the DeepL Python client library:
    ```
    pip install deepl
    ```
 
-3. Set up your API authentication key:
+2. Set up your API authentication key:
    - Create a file named `secrets.sh` in the project root.
    - Add your DeepL API key to the file:
      ```
